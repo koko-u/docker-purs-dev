@@ -9,7 +9,10 @@
 		"editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace",
 		"editor.cursorStyle": "block",
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.foldingImportsByDefault": true
+		"editor.foldingImportsByDefault": true,
+		"[purescript]": {
+			"editor.defaultFormatter": "nwolverson.ide-purescript"
+		}
 	},
 	"extensions": {
 		"recommendations": [
@@ -20,7 +23,9 @@
 			"esbenp.prettier-vscode",
 			"ms-ceintl.vscode-language-pack-ja",
 			"ecmel.vscode-html-css",
-			"dbaeumer.vscode-eslint"
+			"dbaeumer.vscode-eslint",
+			"dhall.dhall-lang",
+			"dhall.vscode-dhall-lsp-server"
 		]
 	}
 }
