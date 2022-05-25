@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace",
+		"editor.cursorStyle": "block",
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.foldingImportsByDefault": true
+	},
+	"extensions": {
+		"recommendations": [
+			"lfs.vscode-emacs-friendly",
+			"nwolverson.ide-purescript",
+			"nwolverson.language-purescript",
+			"spacethimble.vscode-purescript-emmet",
+			"esbenp.prettier-vscode",
+			"ms-ceintl.vscode-language-pack-ja",
+			"ecmel.vscode-html-css",
+			"dbaeumer.vscode-eslint"
+		]
+	}
+}
